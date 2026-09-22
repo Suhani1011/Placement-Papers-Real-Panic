@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+google-genai
+pymupdf
+pytesseract
+Pillow
+python-docx
+SpeechRecognition
