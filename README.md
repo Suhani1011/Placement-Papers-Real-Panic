@@ -12,3 +12,8 @@ The system also provides an English improvement version for Hindi and Hinglish r
 
 This project is developed as an MVP for CODEX 2026 under the Smart Education domain, with future scope including additional regional languages, advanced speech analysis, improved pronunciation and prosody analysis, and enhanced long-term performance tracking.
 
+Live Demo
+
+[Open Placement Papers - Real Panic](https://placement-papers-real-panic-jtpticffhnxthdk4gamkwa.streamlit.app/)
+
+
